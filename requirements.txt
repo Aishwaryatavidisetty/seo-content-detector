@@ -1,0 +1,13 @@
+jupyter
+pandas
+numpy
+beautifulsoup4
+lxml
+scikit-learn
+textstat
+nltk
+tldextract
+requests
+tqdm
+# Optional for embeddings/bonus:
+sentence-transformers
