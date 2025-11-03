@@ -1,19 +1,19 @@
 SEO Content Detector
 
 🧩 Project Overview
-This project automates SEO content quality analysis for webpages.
-It parses HTML to extract clean text, computes linguistic and readability metrics, detects duplicate or thin pages, and classifies content quality (Low / Medium / High).
-The pipeline supports both offline datasets and real-time URL analysis.
+- This project automates SEO content quality analysis for webpages.
+- It parses HTML to extract clean text, computes linguistic and readability metrics, detects duplicate or thin pages, and classifies content quality (Low / Medium / High).
+- The pipeline supports both offline datasets and real-time URL analysis.
 
 ⚙️ Setup Instructions
-git clone https://github.com/Aishwaryatavidisetty/seo-content-detector
-cd seo-content-detector
-pip install -r requirements.txt
-jupyter notebook notebooks/seo_pipeline.ipynb
+- git clone https://github.com/Aishwaryatavidisetty/seo-content-detector
+- cd seo-content-detector
+- pip install -r requirements.txt
+- jupyter notebook notebooks/seo_pipeline.ipynb
 
 🚀 Quick Start
 1. Place your dataset in data/data.csv with headers:
-url,html_content
+- url,html_content
 2. Open notebooks/seo_pipeline.ipynb and Run All cells.
 3. Outputs are generated automatically:
   - data/extracted_content.csv – parsed titles and body text
