@@ -3,7 +3,7 @@ __pycache__/
 .env 
 *.pyc 
 *.pkl 
-models/ 
+# models/ 
 data/*.html 
 data/*.zip 
 data/*.tar 
