@@ -6,10 +6,10 @@ SEO Content Detector
 - The pipeline supports both offline datasets and real-time URL analysis.
 
 ⚙️ Setup Instructions
-- git clone https://github.com/Aishwaryatavidisetty/seo-content-detector
-- cd seo-content-detector
-- pip install -r requirements.txt
-- jupyter notebook notebooks/seo_pipeline.ipynb
+1. git clone https://github.com/Aishwaryatavidisetty/seo-content-detector
+2. cd seo-content-detector
+3. pip install -r requirements.txt
+4. jupyter notebook notebooks/seo_pipeline.ipynb
 
 🚀 Quick Start
 1. Place your dataset in data/data.csv with headers:
